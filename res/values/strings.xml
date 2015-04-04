@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PracticalTest01Var05</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="west_press">West</string>
+    <string name="north_press">North</string>
+    <string name="east_press">East</string>
+    <string name="south_press">South</string>
+    <string name="register">Register</string>
+    <string name="cancel">cancel</string>
+    <string name="navigate">Navigate to secondary activity</string>
+    <string name="title_activity_practical_test01_var05_secondary">PracticalTest01Var05SecondaryActivity</string>
+
+</resources>
